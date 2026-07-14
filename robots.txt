@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-4e5sje.citysinglescommunity.com/sitemap.xml
